@@ -1,4 +1,7 @@
 This project is part of DressCode Consult System
 only image mixing part using categorize images by its name included
-
 The entire system is still under development.
+
+The starting point of this project is the project of 1second DressCode team, Group8 Code Decode Innovation, DigitalFUTURE workshop Shanghai 2018 taught by Kostas Terzidis, Hyejin Lee.
+
+Original code is written in Processing. This code is written in Python including new features categorizing, background cropping, image resizing, image combining.
